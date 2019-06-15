@@ -35,7 +35,10 @@ class UserController extends Controller
      */
     public function store(Request $request)
     {
+<<<<<<< HEAD
         //dc chua
+=======
+>>>>>>> 38c9ee32bd66eb09742650b4846cd0a70c2c5f41
         return $request->all();
     }
 
